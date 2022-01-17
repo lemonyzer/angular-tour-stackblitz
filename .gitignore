@@ -6,6 +6,9 @@
 *.log
 node_modules
 
+# Cache folder for the Angular CLI.
+.angular/cache
+
 # Include when developing application packages.
 pubspec.lock
 .c9
